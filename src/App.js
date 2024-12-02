@@ -1,6 +1,7 @@
 import React from "react";
-import Moviesapi from "./components/Moviesapi";
 import Favorites from "./Favorites";
+import Moviesapi from "./components/moviesApi";
+
 import {
   BrowserRouter as Router,
   Routes,
